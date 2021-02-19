@@ -1,0 +1,14 @@
+C:\Users\Aleksandr\source\A-Level\ZooEfConsole\Zoo.Domain\bin\Debug\Zoo.Domain.dll
+C:\Users\Aleksandr\source\A-Level\ZooEfConsole\Zoo.Domain\bin\Debug\Zoo.Domain.pdb
+C:\Users\Aleksandr\source\A-Level\ZooEfConsole\Zoo.Domain\bin\Debug\Zoo.Data.dll
+C:\Users\Aleksandr\source\A-Level\ZooEfConsole\Zoo.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Aleksandr\source\A-Level\ZooEfConsole\Zoo.Domain\bin\Debug\Dapper.dll
+C:\Users\Aleksandr\source\A-Level\ZooEfConsole\Zoo.Domain\bin\Debug\Zoo.Data.pdb
+C:\Users\Aleksandr\source\A-Level\ZooEfConsole\Zoo.Domain\bin\Debug\Zoo.Data.dll.config
+C:\Users\Aleksandr\source\A-Level\ZooEfConsole\Zoo.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Aleksandr\source\A-Level\ZooEfConsole\Zoo.Domain\bin\Debug\Dapper.xml
+C:\Users\Aleksandr\source\A-Level\ZooEfConsole\Zoo.Domain\obj\Debug\Zoo.Domain.csprojAssemblyReference.cache
+C:\Users\Aleksandr\source\A-Level\ZooEfConsole\Zoo.Domain\obj\Debug\Zoo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\A-Level\ZooEfConsole\Zoo.Domain\obj\Debug\Zoo.Domain.csproj.CopyComplete
+C:\Users\Aleksandr\source\A-Level\ZooEfConsole\Zoo.Domain\obj\Debug\Zoo.Domain.dll
+C:\Users\Aleksandr\source\A-Level\ZooEfConsole\Zoo.Domain\obj\Debug\Zoo.Domain.pdb
